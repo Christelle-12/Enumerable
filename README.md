@@ -137,7 +137,7 @@ If you like this project please follow me on github
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-We would like to thank Microverse.
+I would like to thank Microverse for the outstanding collection of information they have provided that enabled me to create the project. In addition, I would like to also thank the team for outstanding work in implementing the requirements of this project. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
